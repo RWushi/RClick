@@ -1,0 +1,123 @@
+{
+  "Common": {
+    "return_menu": "Return to menu↩️",
+    "return_back": "Return back↩️"
+  },
+  "Subcommon": {
+    "what_is_this": "What is this❓️",
+    "what_is_difference": "Difference❓",
+    "view_example": "View example💡"
+  },
+  "Languages": {
+    "language_chosen": "English language applied, you can change it later in the \"Usage🖥\"→\"My account👤\"→\"Change language🌐\" section"
+  },
+  "Menu": {
+    "menu": "Choose a section",
+    "chat_with_gpt4": "Chat with GPT-4🤖",
+    "customization": "Customization🎨",
+    "about_bot": "About bot📱",
+    "usage": "Usage🖥",
+    "made_by_rtools": "🔮Made by RTools🔮",
+    "rtools": "We offer innovative and highly accurate solutions for business and personal life. We can create a website, animation, bot, and more to order",
+    "contact": "🔮Contact🔮"
+  },
+  "PreChat": {
+    "prechat": "If you want to try, go to the free chat\nIf you have an active subscription, go to the VIP chat💎",
+    "free_chat": "Free chat🎁",
+    "vip_chat": "VIP chat💎",
+    "difference": "VIP subscribers have dedicated resources for chatting with the GPT, thus free and paid requests are processed in two separate streams\nAlso, in the VIP stream, requests are processed a bit faster (though you might not notice the difference as the processing of free requests is also quick)"
+  },
+  "Customization": {
+    "customization": "Here you can set a specific style and provide some information for the GPT chat",
+    "set_style": "Set style🕶",
+    "set_info": "Set info📚",
+    "description": "🔸 Style: this is where you define the tone of your chat with GPT. Whether you prefer a casual, humorous, romantic, or educational tone, the choice is yours. GPT will adhere to the selected style\n🔸 Information: use this section to provide GPT with specific information, such as if you're studying 10th-grade math or preparing for a psychology exam. Any detail you share will be taken into account during the conversation"
+  },
+  "About": {
+    "about": "What is Chat GPT-4 Access Plus?",
+    "about_product": "About product📖",
+    "features": "Features☄️",
+    "advantages": "Advantages➕",
+    "additional_info": "Additional information📑",
+    "product": "Chat GPT is a modern technological marvel capable of creating texts, answering almost any question, generating ideas, and simply being a pleasant conversationalist. However, accessing this tool can be challenging, expensive, and problematic due to the large number of users. That's why we introduced \"GPT-4 Access Plus\"",
+    "capabilities": "With Chat GPT you can:\n💻 Create a mini-program, even if you don't know programming\n🎯 Get very accurate answers to specific questions that can't be found in a search engine\n👨‍⚕️ Conduct sessions as if with a psychologist or psychotherapist\n❤️‍🔥️ Communicate as if with a loved one and fully customize the character of the partner\n📹 Get fresh ideas for creating video/photo or scripts\n📝 Do complex homework that doesn't google\n⚙️ Integrate into your support service or CRM system (not in this bot)\n💫 In general, almost everything your imagination can come up with",
+    "benefits": "⏱ Access to the bot immediately after connection\n🗄 A vast amount of data that can turn into your knowledge\n👶 The most familiar and convenient way to get information, anyone can use this bot\n🛠 Huge customization possibilities tailored to your needs\n📈 High-speed request processing\n⌚️ Availability 24/7"
+  },
+  "Usage": {
+    "usage": "Everything related to using the bot",
+    "my_account": "My account👤",
+    "rates": "Rates📋",
+    "payment": "Payment💳",
+    "support": "Support📞",
+    "costs": "💠 For 1 month: 15$\n\n💠 For 3 months: 40$\n\t\t-Savings 11.1% (5$)\n\n💠 For 6 months: 70$\n\t\t-Savings 22.2% (20$)\n\n💠 For 12 months: 120$\n\t\t-Savings 33.3% (60$)",
+    "contact_text": "For any questions or suggestions, you can contact the person below",
+    "contact": "Contact📞"
+  },
+  "ChatCommon": {
+    "new_dialog": "New conversation🔄"
+  },
+  "ChatDB": {
+    "no_free_queries": "You've run out of free queries. You can contact support or subscribe",
+    "need_subscription_for_vip": "To access the VIP chat💎, you need to purchase a subscription",
+    "subscription_expired": "Your subscription has expired. To access the VIP chat💎, you need to renew it",
+    "verification_successful": "Verification successful, welcome to the VIP chat💎",
+    "active_subscription": "You have an active subscription, enjoy the VIP chat💎",
+    "renew_for_vip": "Your subscription has expired. Renew it to access the VIP chat💎 or you can use free queries"
+  },
+  "ChatFree": {
+    "chatfree": "Write a request to GPT-4 chat",
+    "reset": "Old conversation has been reset, you can start a new one"
+  },
+  "ChatVIP": {
+    "chatvip": "Write a request to GPT-4 chat💎",
+    "reset": "Old conversation has been reset, you can start a new one💎"
+  },
+  "Style": {
+    "style": "Set the style in which the GPT chat will communicate",
+    "current_style": "Current style✅",
+    "reset_style": "Reset style❌",
+    "example": ".",
+    "current": "Current style:",
+    "not_set": "Style not set",
+    "reset": "Style reset, to apply the changes you need to start a new conversation",
+    "applied": "Style applied, to use it you need to start a new conversation"
+  },
+  "Information": {
+    "information": "Set the information that the GPT chat will take into account",
+    "current_info": "Current information✅",
+    "reset_info": "Reset information❌",
+    "example": ".",
+    "current": "Current information:",
+    "not_set": "Information not set",
+    "reset": "Information reset, to apply the changes you need to start a new conversation",
+    "applied": "Information applied, to use it you need to start a new conversation"
+  },
+  "account": {
+    "account": "Here you can view or edit information about your account",
+    "trial_requests": "Trial requests🎟",
+    "my_subscription": "My subscription📆",
+    "my_id": "My ID🆔",
+    "change_language": "Change language🌐",
+    "remaining": "Remaining of your trial requests:",
+    "no_active_subscription": "You have no active subscription",
+    "subscription_expired": "Your subscription has expired:",
+    "you_have_subscription": "You are a GPT-4 Access Plus💎 subscriber",
+    "subscription_end": "Expiration date:",
+    "real_end": "Actual subscription end time will be a bit later",
+    "your_id": "Your ID:",
+    "id_info": "This identifier is not required for you, it may only be needed in exceptional situations subject to prior arrangement",
+    "choose_language": "Choose your language",
+    "language_changed": "English language applied"
+  },
+  "Payment": {
+    "payment": "Choose a plan",
+    "1_month": "1 month💠",
+    "3_months": "3 months💠",
+    "6_months": "6 months💠",
+    "12_months": "12 months💠",
+    "description_1_month": "1 month subscription",
+    "description_3_months": "3 months subscription",
+    "description_6_months": "6 months subscription",
+    "description_12_months": "12 months subscription"
+  }
+}
